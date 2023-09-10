@@ -7,9 +7,6 @@
 
 - JavaScript 🟢: Skilled in using JavaScript for web automation, providing dynamic and interactive testing capabilities.
 
-- Python 🐍: Proficient in utilizing Python for automation scripting, offering versatility and effectiveness in various testing frameworks.
-
-
 - Selenium 🌐: Expertise in utilizing Selenium WebDriver for automated testing of web applications, enabling precise control and accurate results.
 
 - CI/CD 🛠️: Proficient in setting up Continuous Integration and Continuous Deployment pipelines for seamless, efficient development and testing workflows.
