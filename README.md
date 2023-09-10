@@ -29,3 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsai-anthony&show_icons=true&locale=en&layout=compact" alt="tsai-anthony" /></p>
 
 ![GitHub-logo](https://github.com/Tsai-Anthony/Tsai-Anthony/assets/116094020/6f1ac82b-b3fc-41f5-aa5a-af792d0a1b37)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsai-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="tsai-anthony" /> </p>
