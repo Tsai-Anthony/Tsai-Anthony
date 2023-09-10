@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Anthony Tsai</h1>
 <h3 align="center">A passionate Test Automator</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tsai-Anthony?tab=repositories](https://github.com/Tsai-Anthony?tab=repositories)
+- 👨‍💻 All of my projects are available at [: https://github.com/Tsai-Anthony?tab=repositories](: https://github.com/Tsai-Anthony?tab=repositories)
 
-- 📫 How to reach me **tsai96anthony@gmail.com**
+- 📫 How to reach me **: tsai96anthony@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
