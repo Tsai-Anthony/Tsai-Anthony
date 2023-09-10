@@ -1,5 +1,7 @@
 ### Hi there 👋
-#0A66C2 
+
+![<LinkedIn>](https://img.shields.io/badge/<Badge LinkedIn>-<#0A66C2>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+ 
 🤖 Test Automation Enthusiast 🚀: Passionate about creating efficient, robust automated tests to ensure software quality and enhance development workflows.
 
 Java ☕: Experienced in Java for creating robust, scalable automation solutions, especially suitable for enterprise-level applications.
